@@ -1,6 +1,9 @@
 from werkzeug.datastructures import FileStorage
 
-def classify_file(file: FileStorage):
+# import ocr python file
+from src.ocr import pdf_to_txt, image_to_txt, word_to_txt, excel_to_txt
+
+def classify_file_by_name(file: FileStorage):
     filename = file.filename.lower()
     # file_bytes = file.read()
 
@@ -12,6 +15,6 @@ def classify_file(file: FileStorage):
 
     if "invoice" in filename:
         return "invoice"
-
+    
     return "unknown file"
 

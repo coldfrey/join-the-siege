@@ -74,3 +74,11 @@ We encourage you to be creative! Feel free to use any libraries, tools, services
 Please aim to spend 3 hours on this challenge.
 
 Once completed, submit your solution by sharing a link to your forked repository. Please also provide a brief write-up of your ideas, approach, and any instructions needed to run your solution. 
+
+
+Featuress:
+
+- Perform ocr to extract the text from the file, handle different file formats
+- Run Llama 3 to classify files based on their text content (optional training/finetuning)
+- Use Gemini image model to look at the file as a whole and classify based on the image, this can act as a check to make sure they agree.
+- Deploy the classifier as a service using FastAPI
