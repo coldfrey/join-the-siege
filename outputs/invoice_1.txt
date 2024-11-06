@@ -1,0 +1,16 @@
+ee NV 01Ce
+
+Company Name Customer Company Name
+Address Contact Name
+Phone Address
+Email Phone
+Website Email
+Invoice Number: 1234 Issue Date: Date Expiry Date: Date
+
+Description Quantity Unit Price
+
+Subtotal
+Tax
+
+AL
+
