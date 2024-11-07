@@ -1,0 +1,3628 @@
+REMUS
+
+Twickenham Learning Centre
+
+Installation : Lighting Models
+
+Project number
+
+Customer : Co2 Target
+Processed by
+
+Date : 25.04.2024
+
+The following values are based on precise calculations performed on calibrated lamps and luminaires, and their configurations, whereby
+gradual, unavoidable deviations can occur in practice. All guarantee claims are excluded for the specified data.
+
+This exclusion of liability applies irrespective of the legal grounds for both damages and consequential damages suffered by users and third
+parties.
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+1. Reception Area and Main Corridor R E [LUD
+
+1.1 Description, Reception Area and Main Corridor
+1.1.1 Floor plan
+
+Object : Twickenham Learning Centre
+: Lighting Models
+
+Installation
+Project number
+Date :
+
+25.04.2024
+
+1. Reception Area and Main Corridor
+
+1.1 Description, Reception Area and Main Corridor
+
+1.1.1 Floor plan
+
+REMUS
+
+Wall x
+
+28.62 m
+28.61 m
+30.60 m
+30.57 m
+25.16 m
+11.54 m
+11.54 m
+25.20 m
+25.20 m
+
+OONANAWN>
+
+Floor
+
+Ceiling
+
+Room height
+Height of ref. plane
+
+43.03 m
+44.71m
+44.74 m
+48.12 m
+48.07 m
+48.08 m
+46.66 m
+46.62 m
+43.03 m
+
+2.60 m
+0.00 m
+
+Length
+
+3.42m
+1.68 m
+1.99 m
+3.38 m
+5.40 m
+13.62 m
+1.42 m
+13.66 m
+3.59 m
+
+Reflectance
+
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+20.0 %
+70.0 %
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+1. Reception Area and Main Corridor
+
+REMUS
+
+1.2 Summary, Reception Area and Main Corridor
+
+1.2.1 Result overview, Evaluation area 1
+
+-14 -12 -10 -8 6 -4
+|
+75 100 150 200 300
+
+Illuminance [Ix]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (43.53 m7)
+
+Evaluation area 1 Reference plane 1.1
+Horizontal
+
+Em 196 Ix
+
+Emin 83 Ix
+
+Emin/Em (Uo) 0.42
+
+Emin/Emax (Ua) 0.27
+
+Ez/En
+
+Position 0.00 m
+
+Major surfaces Em
+
+M 1.9 (Ceiling) 53 Ix
+
+M 1.1 (Wall) 178 Ix
+M 1.2 (Wall) 170 Ix
+M 1.3 (Wall) 157 Ix
+M 1.4 (Wall) 146 Ix
+M 1.5 (Wall) 170 Ix
+M 1.6 (Wall) 108 Ix
+M 1.7 (Wall) 109 Ix
+M 1.8 (Wall) 177 Ix
+
+Average indirect fraction
+2.60 m
+0.80
+
+18525.00 Im
+144.3 W
+3.31 Wim? (1.69 Wim?/100Ix)
+
+cylindrical
+124 Ix
+
+66 Ix
+0.53
+
+0.38
+1.60 m
+
+Uo
+
+0.62
+0.76
+0.69
+0.64
+0.84
+0.65
+0.51
+0.50
+0.77
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+1. Reception Area and Main Corridor
+
+1.2 Summary, Reception Area and Main Corridor
+
+1.2.1 Result overview, Evaluation area 1
+
+Type No.\Make
+
+Spurlite Ltd
+2 13x Order No. : 37 Series
+r Luminaire name — : Boxer Il 15
+Equipment :1x LED 11.1 W/ 1425 Im
+
+REMUS
+Object : Twickenham Learning Centre
+Installation : Lighting Models
+
+Project number :
+
+Date : 25.04.2024
+
+2 Reception Area and Main Corridor EM R E [LUX
+
+2.1 Description, Reception Area and Main Corridor EM
+2.1.1 Floor plan
+
+Object : Twickenham Learning Centre
+: Lighting Models
+
+Installation
+Project number
+Date :
+
+25.04.2024
+
+2 Reception Area and Main Corridor EM
+
+2.1. Description, Reception Area and Main Corridor EM
+
+2.1.1 Floor plan
+
+REMUS
+
+Wall x
+
+28.62 m
+28.61 m
+30.60 m
+30.57 m
+25.16 m
+11.54 m
+11.54 m
+25.20 m
+25.20 m
+
+OONANAWN>
+
+Floor
+
+Ceiling
+
+Room height
+Height of ref. plane
+
+43.03 m
+44.71m
+44.74 m
+48.12 m
+48.07 m
+48.08 m
+46.66 m
+46.62 m
+43.03 m
+
+2.60 m
+0.00 m
+
+Length
+
+3.42m
+1.68 m
+1.99 m
+3.38 m
+5.40 m
+13.62 m
+1.42 m
+13.66 m
+3.59 m
+
+Reflectance
+
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+50.0 %
+20.0 %
+70.0 %
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+2 Reception Area and Main Corridor EM
+
+2.2 Summary, Reception Area and Main Corridor EM
+
+2.2.1 Result overview, Evaluation area 1
+
+REMUS
+
+M 1.1 (Wall) 5.28 Ix 0.13
+M 1.2 (Wall) 1.74 Ix 0.28
+M 1.3 (Wall) 8.57 Ix 0.33
+M 1.4 (Wall) 4.46 Ix 0.13
+M 1.5 (Wall) 4.28 Ix 0.13
+M 1.6 (Wall) 4.31 Ix 0.05
+M 1.7 (Wall) 4.39 Ix 0.05
+M 1.8 (Wall) 5.43 Ix 0.38
+
+Ed e @
+LT = = ™
+T T T T T T T T
+-14 -12 -10 8 6 4 -2 0 2x [m]
+NCSC
+2 3 5 fs) 10
+Illuminance [lx]
+General
+Calculation algorithm used Direct component
+Height of luminaire plane 2.60 m
+Maintenance factor 0.80
+Total luminous flux 930.00 Im
+Total power 66.6 W
+Total power per area (43.53 m7) 1.53 Wim? (23.11 W/m?/100Ix)
+Evaluation area 1 Reference plane 1.1
+Horizontal cylindrical
+Em 6.62 Ix 3.17 Ix
+Emin 2.48 Ix 0.65 Ix
+Emin/Em (Uo) 0.38 0.20
+Emin/Emax (Ua) 0.22
+E-/En 0.24
+Position 0.00 m 1.60 m
+Major surfaces Em Uo
+M 1.9 (Ceiling) 0 Ix -
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+2 Reception Area and Main Corridor EM
+
+2.2 Summary, Reception Area and Main Corridor EM
+
+2.2.1 Result overview, Evaluation area 1
+
+Type No.\Make
+
+Spurlite Ltd
+5 6x Order No. 1137 Series
+r Luminaire name — : Boxer Il 15 EM
+Equipment >1x LED 11.1 W/ 155 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+3 Meeting room 1 R E LLU"
+
+3.1 Description, Meeting room 1
+3.1.1 Floor plan
+
+y [m]
+54
+
+49 5
+447
+3.9 5
+
+3.47
+
+294 Reference plane 1.1
+
+24-7 @
+
+1.9 4
+
+144
+
+0.9 5
+
+04-7
+
+Wall x y Length Reflectance
+4 39.44 m 51.80 m 1.80m 50.0 %
+2 39.44 m 53.65 m 1.85m 50.0 %
+3 46.47 m 53.67 m 7.02m 50.0 %
+4 46.55 m 57.36 m 3.69m 50.0 %
+5 46.28 m 57.38 m 0.27m 50.0 %
+6 46.25 m 57.62 m 0.23m 50.0 %
+7 37.69m 57.60 m 8.56 m 50.0 %
+8 37.65 m 51.82 m 5.79m 50.0 %
+
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.75m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+3 Meeting room 1
+
+3.2. Summary, Meeting room 1
+
+3.2.1 Result overview, Evaluation area 1
+
+RELUDS
+
+300
+Illuminance [Ix]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (38.13 m?)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 469 Ix
+Emin 334 Ix
+Emin/Em (Uo) 0.71
+Emin/Emax (Ua) 0.62
+E2/Eh
+Position 0.75 m
+Major surfaces Em
+M 1.7 (Ceiling) 103 Ix
+M 1.1 (Wall) 216 Ix
+M 1.2 (Wall) 214 Ix
+M 1.3 (Wall) 284 Ix
+M 1.4 (Wall) 332 Ix
+M 1.5 (Wall) 283 Ix
+
+M 1.6 (Wall) 268 Ix
+
+Average indirect fraction
+2.60 m
+0.80
+
+28405.00 Im
+299.0 W
+7.84 Wim? (1.67 Wi/m?/100Ix)
+
+cylindrical
+212 Ix
+133 Ix
+0.63
+
+0.40
+1.20 m
+
+Uo
+
+0.89
+0.68
+0.58
+0.63
+0.66
+0.64
+0.53
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+3 Meeting room 1
+
+3.2. Summary, Meeting room 1
+
+3.2.1 Result overview, Evaluation area 1
+
+Type No.\Make
+
+Spurlite Ltd
+1 13x Order No. : Boxer Il 23w
+CD Luminaire name — : Boxer Il 23w
+\/ Equipment 21x LED 23 W/ 2185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+4 Meeting room 1 Em
+
+4.1 Description, Meeting room 1 Em
+4.1.1 Floor plan
+
+REMUS
+
+y [m]
+
+54
+494
+44
+3.9
+34
+
+294 Reference plane 1.1
+
+247
+
+1.9 4
+
+144
+
+0.9 5
+
+04-7
+
+Wall x y Length Reflectance
+4 39.44 m 51.80 m 1.80m 50.0 %
+2 39.44 m 53.65 m 1.85m 50.0 %
+3 46.47 m 53.67 m 7.02m 50.0 %
+4 46.55 m 57.36 m 3.69m 50.0 %
+5 46.28 m 57.38 m 0.27m 50.0 %
+6 46.25 m 57.62 m 0.23m 50.0 %
+7 37.69m 57.60 m 8.56 m 50.0 %
+8 37.65 m 51.82 m 5.79m 50.0 %
+
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+4 Meeting room 1 Em
+
+4.2. Summary, Meeting room 1 Em
+
+4.2.1 Result overview, Evaluation area 1
+
+REMUS
+
+1 1.5 2
+Illuminance [Ix]
+
+A
+&
+S
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (38.13 m7)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 3.98 Ix
+Emin 1.13 Ix
+Emin/Em (Uo) 0.28
+Emin/Emax (Ua) 0.13
+E2/Eh
+Position 0.00 m
+Major surfaces Em
+M 1.7 (Ceiling) 0 Ix
+M 1.1 (Wall) 9.08 Ix
+M 1.2 (Wall) 8.94 Ix
+M 1.3 (Wall) 2.67 Ix
+M 1.4 (Wall) 5.43 Ix
+M 1.5 (Wall) 2.89 Ix
+
+M 1.6 (Wall) 5.76 Ix
+
+Direct component
+2.60 m
+0.80
+
+555.00 Im
+69.0 W
+1.81 Wim? (45.52 W/m?/100Ix)
+
+cylindrical
+1.75 Ix
+0.26 Ix
+0.15
+
+0.22
+1.60 m
+
+Uo
+
+0.40
+0.37
+0.04
+0.06
+0.04
+0.16
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+4 Meeting room 1 Em
+
+4.2. Summary, Meeting room 1 Em
+
+4.2.1 Result overview, Evaluation area 1
+
+Type No.\Make
+
+Spurlite Ltd
+6 3x Order No. : Boxer Il 23w
+> Luminaire name — : Boxer Il 23w EM
+
+ae, Equipment :1xLED 23 W/185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+5 Meeting room 2 R E LLU"
+
+5.1 Description, Meeting room 2
+5.1.1 Floor plan
+
+y [m]
+55 4
+
+5.0 4
+45 5
+40
+3.5 5
+3.0 5 + Reference plane 1.1
+2.55
+2.0 5
+1.55
+
+1.0 5
+
+0.57
+
+0.0
+
+T T
+-0 1 2 3 4 5 6 7x [m]
+
+Wall x y Length Reflectance
+
+4 37.50 m 51.75 m 7.66m 50.0 %
+
+2 37.59m 57.63 m 5.87m 50.0 %
+
+3 29.85 m 57.60 m 7.74m 50.0 %
+
+4 29.84 m 51.72 m 5.87m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.75m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+5 Meeting room 2
+
+5.2 Summary, Meeting room 2
+
+5.2.1 Result overview, Evaluation area 1
+
+300
+Illuminance [Ix]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (45.24 m7?)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 420 Ix
+Emin 361 Ix
+Emin/Em (Uo) 0.86
+Emin/Emax (Ua) 0.76
+Ez/Eh
+Position 0.75 m
+Major surfaces Em
+M 1.5 (Ceiling) 82 Ix
+M 1.1 (Wall) 231 Ix
+M 1.2 (Wall) 232 Ix
+M 1.3 (Wall) 235 Ix
+M 1.4 (Wall) 228 Ix
+
+Type No.\Make
+
+Average indirect fraction
+2.60 m
+0.80
+
+26220.00 Im
+276.0 W
+6.10 Wim? (1.45 Wi/m?/100Ix)
+
+cylindrical
+188 Ix
+137 Ix
+0.73
+
+0.41
+1.20 m
+
+Uo
+
+0.98
+0.73
+0.75
+0.73
+0.75
+Object
+
+Installation
+Project number
+
+Date
+
+: Twickenham Learning Centre
+: Lighting Models
+
+: 25.04.2024
+
+5 Meeting room 2
+
+5.2 Summary, Meeting room 2
+
+5.2.1 Result overview, Evaluation area 1
+
+=
+=
+Ny
+x“
+
+G
+
+Spurlite Ltd
+
+Order No. : Boxer Il 23w
+
+Luminaire name _ : Boxer Il 23w
+Equipment >1x LED 23 W/ 2185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+6 Meeting room 2 EM R E [LUD
+
+6.1 Description, Meeting room 2 EM
+6.1.1 Floor plan
+
+y [m]
+55 4
+
+5.0 5
+
+45 5
+
+40
+
+3.5 5
+
+3.0 5
+
+Reference plane 1.1
+
+2.55
+
+2.0 5
+
+1.55
+
+1.0 5
+
+0.57
+
+0.0
+
+T T
+-0 1 2 3 4 5 6 7x [m]
+
+Wall x y Length Reflectance
+
+4 37.50 m 51.75 m 7.66m 50.0 %
+
+2 37.59m 57.63 m 5.87m 50.0 %
+
+3 29.85 m 57.60 m 7.74m 50.0 %
+
+4 29.84 m 51.72 m 5.87m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+6 Meeting room 2 EM
+6.2 Summary, Meeting room 2 EM
+
+6.2.1 Result overview, Evaluation area 1
+
+Reference plane 1.1
+
+REMUS
+
+6 7x [m]
+P|
+0.5 0.75 1 15 2 3 5
+
+Illuminance [lx]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (45.24 m7)
+
+Evaluation area 1 Reference plane 1.1
+Horizontal
+
+Em 3.64 Ix
+
+Emin 0.58 Ix
+
+Emin/Em (Uo) 0.16
+
+Emin/Emax (Ua) 0.07
+
+Ez/En
+
+Position 0.00 m
+
+Major surfaces Em
+
+M 1.5 (Ceiling) 0 Ix
+
+M 1.1 (Wall) 3.05 Ix
+
+M 1.2 (Wall) 0.82 Ix
+
+M 1.3 (Wall) 2.49 Ix
+
+M 1.4 (Wall) 3.18 Ix
+
+Type No.\Make
+
+:
+
+Direct component
+2.60 m
+0.80
+
+370.00 Im
+46.0 W
+1.02 Wim? (27.96 W/m?/100Ix)
+
+cylindrical
+1.59 Ix
+0.12 Ix
+0.08
+
+0.27
+1.60 m
+
+Uo
+
+0.03
+0.07
+0.02
+0.03
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+6 Meeting room 2 EM
+6.2. Summary, Meeting room 2 EM
+
+6.2.1 Result overview, Evaluation area 1
+
+Spurlite Ltd
+6 2x Order No. : Boxer Il 23w
+> Luminaire name — : Boxer Il 23w EM
+
+Ko Equipment >1x LED 23 W/ 185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+7 Meeting room 3
+
+7.1 Description, Meeting room 3
+7.1.1 Floor plan
+
+REMUS
+
+y [m]
+55 4
+
+5.0 5
+45 5
+40
+3.5 7
+3.0 5 Referendgiane 1.1
+2.55
+2.0 5
+1.55
+
+1.0 4
+
+7 8x [m]
+
+-0 1 2 3 4 5
+Wall x y Length Reflectance
+
+4 29.66 m 51.72 m 8.90 m 50.0 %
+
+2 29.69 m 57.61 m 5.89 m 50.0 %
+
+3 20.74 m 57.64 m 8.94m 50.0 %
+
+4 20.76 m 51.74m 5.90 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.75m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+7 Meeting room 3
+
+7.2. Summary, Meeting room 3
+
+7.2.1 Result overview, Evaluation area 1
+
+RELUDS
+
+300
+Illuminance [Ix]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (52.58 m7?)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 460 Ix
+Emin 389 Ix
+Emin/Em (Uo) 0.85
+Emin/Emax (Ua) 0.75
+Ez/Eh
+Position 0.75 m
+Major surfaces Em
+M 1.5 (Ceiling) 90 Ix
+M 1.1 (Wall) 250 Ix
+M 1.2 (Wall) 255 Ix
+M 1.3 (Wall) 254 Ix
+M 1.4 (Wall) 245 Ix
+
+Type No.\Make
+
+Average indirect fraction
+2.60 m
+0.80
+
+32775.00 Im
+345.0 W
+6.56 Wim? (1.43 Wi/m?/100Ix)
+
+cylindrical
+2085 Ix
+147 Ix
+0.72
+
+0.41
+1.20 m
+
+Uo
+
+0.98
+0.73
+0.74
+0.72
+0.76
+Object
+
+Installation
+Project number
+
+Date
+
+: Twickenham Learning Centre
+: Lighting Models
+
+: 25.04.2024
+
+7 Meeting room 3
+
+7.2. Summary, Meeting room 3
+
+7.2.1 Result overview, Evaluation area 1
+
+=
+=
+oa
+x“
+
+G
+
+Spurlite Ltd
+
+Order No. : Boxer Il 23w
+
+Luminaire name _ : Boxer Il 23w
+Equipment >1x LED 23 W/ 2185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+8 Meeting room 3 Em R E [LUD
+
+8.1 Description, Meeting room 3 Em
+8.1.1 Floor plan
+
+y [m]
+554
+
+5.0 5
+45 -
+4.0 4
+3.5 5
+3.0 4 Reference plane 1.1
+2.5 5
+2.0 5
+1.57
+
+1.0 4
+
+T T
+-0 1 2 3 4 5 6 7 8x [m]
+
+Wall x y Length Reflectance
+
+4 29.66 m 51.72 m 8.90 m 50.0 %
+
+2 29.69 m 57.61m 5.89m 50.0 %
+
+3 20.74 m 57.64 m 8.94m 50.0 %
+
+4 20.76 m 51.74m 5.90 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+8 Meeting room 3 Em
+
+8.2 Summary, Meeting room 3 Em
+
+8.2.1 Result overview, Evaluation area 1
+
+REMUS
+
+0.5 0.75 1 1.5
+Illuminance [Ix]
+
+A
+&
+S
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (52.58 m7)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 3.64 Ix
+Emin 0.68 Ix
+Emin/Em (Uo) 0.19
+Emin/Emax (Ua) 0.08
+E2/Eh
+Position 0.00 m
+Major surfaces Em
+M 1.5 (Ceiling) 0 Ix
+M 1.1 (Wall) 2.61 Ix
+M 1.2 (Wall) 0.96 Ix
+M 1.3 (Wall) 2.66 Ix
+M 1.4 (Wall) 0.92 Ix
+
+Type No.\Make
+
+Direct component
+2.60 m
+0.80
+
+370.00 Im
+46.0 W
+0.87 Wim? (24.04 Wim?/100Ix)
+
+cylindrical
+1.54 Ix
+0.15 Ix
+0.10
+
+0.27
+1.60 m
+
+Uo
+
+0.02
+0.07
+0.02
+0.07
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+8 Meeting room 3 Em
+
+8.2. Summary, Meeting room 3 Em
+
+8.2.1 Result overview, Evaluation area 1
+
+Spurlite Ltd
+6 2x Order No. : Boxer Il 23w
+> Luminaire name — : Boxer Il 23w EM
+
+Ko Equipment >1x LED 23 W/ 185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+9 Meeting room 4
+
+9.1 Description, Meeting room 4
+9.1.1 Floor plan
+
+REMUS
+
+y [m]
+5.5 7
+5.0 5
+455
+40-5
+3.54
+3.0 4 Reference plane 1.1 A
+2.5 4
+2.0 5
+1.5 4
+1.0 4
+0.5 7
+-0.0 —
+[ T I I T T T T T
+- 4 2 3 4 5 6 7 8x (m]
+Wall x y Length Reflectance
+4 20.71 m 51.72 m 8.03 m 50.0 %
+2 20.71 m 57.65 m 5.94m 50.0 %
+3 12.68 m 57.65 m 8.03 m 50.0 %
+4 12.68 m 51.76 m 5.89m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.75m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+9 Meeting room 4
+
+9.2 Summary, Meeting room 4
+
+9.2.1 Result overview, Evaluation area 1
+
+| 4
+=
+
+REMUS
+
+300
+Illuminance [Ix]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (47.48 m7?)
+
+Evaluation area 1
+
+Reference plane 1.1
+
+Horizontal
+Em 405 Ix
+Emin 349 Ix
+Emin/Em (Uo) 0.86
+Emin/Emax (Ua) 0.76
+Ez/Eh
+Position 0.75 m
+Major surfaces Em
+M 1.5 (Ceiling) 79 Ix
+M 1.1 (Wall) 218 Ix
+M 1.2 (Wall) 220 Ix
+M 1.3 (Wall) 225 Ix
+M 1.4 (Wall) 222 Ix
+
+Type No.\Make
+
+Average indirect fraction
+2.60 m
+0.80
+
+26220.00 Im
+276.0 W
+5.81 Wim? (1.44 Wim?/100Ix)
+
+cylindrical
+181 Ix
+134 Ix
+0.74
+
+0.41
+1.20 m
+
+Uo
+
+0.98
+0.75
+0.75
+0.73
+0.75
+Object
+
+Installation
+Project number
+
+Date
+
+: Twickenham Learning Centre
+: Lighting Models
+
+: 25.04.2024
+
+9 Meeting room 4
+
+9.2 Summary, Meeting room 4
+
+9.2.1 Result overview, Evaluation area 1
+
+=
+=
+Ny
+x“
+
+G
+
+Spurlite Ltd
+
+Order No. : Boxer Il 23w
+
+Luminaire name _ : Boxer Il 23w
+Equipment >1x LED 23 W/ 2185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+10 Meeting room 4 EM R E LLU"
+
+10.1 Description, Meeting room 4 EM
+10.1.1 Floor plan
+
+y [m]
+6.5 7
+5.0 5
+455
+40-5
+3.54
+3.0 4 Reference plane 1.1
+2.5 4
+2.0 5
+1.5 4
+1.0 4
+0.5 7
+-0.0 —
+Wall x y Length Reflectance
+4 20.71m 51.72 m 8.03 m 50.0 %
+2 20.71m 57.65 m 5.94m 50.0 %
+3 12.68 m 57.65 m 8.03 m 50.0 %
+4 12.68 m 51.76 m 5.89 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+10 Meeting room 4 EM R E [LUI x<"
+
+10.2 Summary, Meeting room 4 EM
+
+10.2.1 Result overview, Evaluation area 1
+
+0.75 1 1.5 2 5 7.5
+
+luminance [Ix] AS
+General
+
+Calculation algorithm used Direct component
+
+Height of luminaire plane & 2.60 m
+
+Maintenance factor 0.80
+Total luminous flux 370.00 Im
+Total power 46.0 W
+Total power per area (47.48 m?) 0.97 Wim? (23.37 Wim?/100Ix)
+Evaluation area 1 Reference plane 1.1
+
+Horizontal cylindrical
+Em 4.15 Ix 1.85 Ix
+Emin 0.92 Ix 0.2 Ix
+Emin/Em (Uo) 0.22 0.11
+Emin/Emax (Ua) 0.11
+Ez/En 0.29
+Position 0.00 m 1.60 m
+Major surfaces Em Uo
+M 1.5 (Ceiling) 0 Ix --
+M 1.1 (Wall) 2.89 Ix 0.02
+M 1.2 (Wall) 0.85 Ix 0.12
+M 1.3 (Wall) 3.01 Ix 0.02
+M 1.4 (Wall) 0.87 Ix 0.12
+
+Type No.\Make
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+10 Meeting room 4 EM
+10.2 Summary, Meeting room 4 EM
+
+10.2.1 Result overview, Evaluation area 1
+
+Spurlite Ltd
+6 2x Order No. : Boxer Il 23w
+-~ Luminaire name — : Boxer Il 23w EM
+
+KO Equipment :1x LED 23 W/ 185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+11 Meeting room 5
+
+11.1 Description, Meeting room 5
+11.1.1 Floor plan
+
+REMUS
+
+9 4
+
+go
+
+74
+
+6 4
+
+5 4
+
+Reference plane 1.1
+
+4 4
+
+3 4
+
+2 4
+
+1-4
+
+-9
+
+I T T T T T T T T
+01 06 1.1 16 21 26 3.1 3.6 4.1 x[m]
+
+Wall x y Length Reflectance
+
+4 12.56 m 48.33 m 4.32 m 50.0 %
+
+2 12.56 m 57.62 m 9.29m 50.0 %
+
+3 8.57m 57.67 m 3.98m 50.0 %
+
+4 8.59m 57.31m 0.36m 50.0 %
+
+5 8.24m 57.30 m 0.34m 50.0 %
+
+6 8.23 m 48.34 m 8.96 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.75m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+11 Meeting room 5
+
+11.2 Summary, Meeting room 5
+
+11.2.1 Result overview, Evaluation area 1
+
+REMUS
+
+CTT TTT TTT.
+0.1 1.4 24 3.4 4.4 x[m]
+
+300
+Illuminance [Ix]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (40.10 m7)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 451 Ix
+Emin 361 Ix
+Emin/Em (Uo) 0.80
+Emin/Emax (Ua) 0.69
+E2/En
+Position 0.75 m
+Major surfaces Em
+M 1.5 (Ceiling) 91 Ix
+M 1.1 (Wall) 238 Ix
+M 1.2 (Wall) 257 Ix
+M 1.3 (Wall) 245 Ix
+M 1.4 (Wall) 264 Ix
+
+Type No.\Make
+
+Average indirect fraction
+2.60 m
+0.80
+
+26220.00 Im
+276.0 W
+6.88 Wim? (1.53 Wim?/100Ix)
+
+cylindrical
+201 Ix
+146 Ix
+0.73
+
+0.40
+1.20 m
+
+Uo
+
+0.97
+0.83
+0.69
+0.81
+0.67
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+11 Meeting room 5
+
+11.2. Summary, Meeting room 5
+
+11.2.1 Result overview, Evaluation area 1
+
+Spurlite Ltd
+1 12x Order No. : Boxer Il 23w
+CD Luminaire name — : Boxer Il 23w
+\/ Equipment 21x LED 23 W/ 2185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+12 Meeting room 5 Em
+
+12.1 Description, Meeting room 5 Em
+12.1.1 Floor plan
+
+REMUS
+
+9 4
+
+go
+
+74
+
+6 4
+
+5 4
+
+Reference plane 1.1
+
+4 4
+
+3 4
+
+2 4
+
+1-4
+
+-9
+
+I T T T T T T T T
+01 06 1.1 16 21 26 3.1 3.6 4.1 x[m]
+
+Wall x y Length Reflectance
+
+4 12.56 m 48.33 m 4.32 m 50.0 %
+
+2 12.56 m 57.62 m 9.29m 50.0 %
+
+3 8.57m 57.67 m 3.98m 50.0 %
+
+4 8.59m 57.31m 0.36m 50.0 %
+
+5 8.24m 57.30 m 0.34m 50.0 %
+
+6 8.23 m 48.34 m 8.96 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+12 Meeting room 5 Em
+
+12.2 Summary, Meeting room 5 Em
+
+12.2.1 Result overview, Evaluation area 1
+
+CTT? TTT.
+0.1 1.4 24 3.41 4.4 x[mJ
+
+1 1.5 2
+Illuminance [lx]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (40.10 m7)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 4.13 Ix
+Emin 1.44 Ix
+Emin/Em (Uo) 0.35
+Emin/Emax (Ua) 0.17
+Ez/En
+Position 0.00 m
+Major surfaces Em
+M 1.5 (Ceiling) 0 Ix
+M 1.1 (Wall) 4.5 Ix
+M 1.2 (Wall) 1.57 Ix
+M 1.3 (Wall) 4.93 Ix
+M 1.4 (Wall) 1.6 Ix
+
+Type No.\Make
+
+Direct component
+2.60 m
+0.80
+
+370.00 Im
+46.0 W
+1.15 Wim? (27.75 Wim?/100Ix)
+
+cylindrical
+2.06 Ix
+0.33 Ix
+0.16
+
+0.26
+1.60 m
+
+Uo
+
+0.32
+0.10
+0.30
+0.10
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+12 Meeting room 5 Em
+
+12.2 Summary, Meeting room 5 Em
+
+12.2.1 Result overview, Evaluation area 1
+
+Spurlite Ltd
+6 2x Order No. : Boxer Il 23w
+-~ Luminaire name — : Boxer Il 23w EM
+
+KO Equipment :1x LED 23 W/ 185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+13. Meeting Room 6 R E LLU"
+
+13.1 Description, Meeting Room 6
+13.1.1 Floor plan
+
+y [m]
+3.0 5
+7° ®
+2.0 5
+4.1
+15 _| Reference plane
+1.0 4
+0.57
+0.0 —
+——e ————— Da
+f T T T T T T T T T T T
+-0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 45 5.0 5.5 x([m]
+Wall x y Length Reflectance
+4 23.59 m 48.41m 5.89 m 50.0 %
+2 23.57 m 51.57m 3.17m 50.0 %
+3 17.70m 51.51 m 5.86 m 50.0 %
+4 17.70m 48.36 m 3.15m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.75m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+13 Meeting Room 6
+13.2 Summary, Meeting Room 6
+
+13.2.1 Result overview, Evaluation area 1
+
+300
+
+Illuminance [Ix]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (18.55 m7)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 422 Ix
+Emin 357 Ix
+Emin/Em (Uo) 0.84
+Emin/Emax (Ua) 0.76
+Ez/Eh
+Position 0.75 m
+Major surfaces Em
+M 1.5 (Ceiling) 91 Ix
+M 1.1 (Wall) 254 Ix
+M 1.2 (Wall) 241 Ix
+M 1.3 (Wall) 252 Ix
+M 1.4 (Wall) 245 Ix
+
+Type No.\Make
+
+T T T
+35 40 45 5.0 5.5 x[m]
+
+Average indirect fraction
+2.60 m
+0.80
+
+13110.00 Im
+138.0 W
+7.44 Wim? (1.76 Wim?/100Ix)
+
+cylindrical
+183 Ix
+145 Ix
+0.79
+
+0.37
+1.20 m
+
+Uo
+
+0.97
+0.66
+0.76
+0.66
+0.75
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+13. Meeting Room 6
+13.2 Summary, Meeting Room 6
+
+13.2.1 Result overview, Evaluation area 1
+
+Spurlite Ltd
+1 6x Order No. : Boxer Il 23w
+CD Luminaire name — : Boxer Il 23w
+\/ Equipment 21x LED 23 W/ 2185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+14 Meeting Room 6 Em R E LLU"
+
+14.1 Description, Meeting Room 6 Em
+14.1.1 Floor plan
+
+y [m]
+3.0 5
+2.5 4
+2.0 5
+4.1
+15 _| Reference plane
+1.0 4
+0.57
+0.0 —
+——e ————— Da
+f T T T T T T T T T T T
+-0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 45 5.0 5.5 x([m]
+Wall x y Length Reflectance
+4 23.59 m 48.41m 5.89 m 50.0 %
+2 23.57 m 51.57m 3.17m 50.0 %
+3 17.70m 51.51 m 5.86 m 50.0 %
+4 17.70m 48.36 m 3.15m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+14 Meeting Room 6 Em
+14.2 Summary, Meeting Room 6 Em
+
+14.2.1 Result overview, Evaluation area 1
+
+1.5 2 3
+
+Iluminance [Ix] ey
+
+General ©
+Calculation algorithm used x
+Height of luminaire plane Qe
+
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (18.55 m7)
+
+Evaluation area 1 Reference plane 1.1
+Horizontal
+
+Em 4.29 Ix
+
+Emin 1.5 Ix
+
+Emin/Em (Uo) 0.35
+
+Emin/Emax (Ua) 0.19
+
+E2/Eh
+
+Position 0.00 m
+
+Major surfaces Em
+
+M 1.5 (Ceiling) 0 Ix
+
+M 1.1 (Wall) 1.41 Ix
+
+M 1.2 (Wall) 1.07 Ix
+
+M 1.3 (Wall) 4.3 Ix
+
+M 1.4 (Wall) 1.07 Ix
+
+Type No.\Make
+
+Direct component
+2.60 m
+0.80
+
+185.00 Im
+23.0 W
+1.24 Wim? (28.91 W/m?/100Ix)
+
+cylindrical
+2.22 Ix
+0.4 Ix
+0.18
+
+0.26
+1.60 m
+
+Uo
+
+0.15
+0.25
+0.06
+0.25
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+14 Meeting Room 6 Em
+14.2. Summary, Meeting Room 6 Em
+
+14.2.1 Result overview, Evaluation area 1
+
+Spurlite Ltd
+6 1x Order No. : Boxer Il 23w
+iN Luminaire name — : Boxer Il 23w EM
+
+ae, Equipment :1xLED 23 W/185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+Installation : Lighting Models
+
+Project number
+
+Date » 25.04.2024
+
+15 Meeting Room 7
+
+15.1 Description, Meeting Room 7
+
+15.1.1 Floor plan
+
+REMUS
+
+y [m]
+5.0 5
+455
+40-5
+35 _ Zz!
+3.0 5
+25 - Reference plane 1.1 @
+2.0 5
+1.5 4
+1.0 4
+0.57
+-0.0 —
+f T T T T T T T
+-0.3 0.2 0.7 1.2 1.7 2.2 2.7 3.2 x [m]
+Wall x y Length Reflectance
+4 12.55 m 43.00 m 3.96 m 50.0 %
+2 12.53 m 46.54 m 3.54 1m 50.0 %
+3 11.40 m 46.54 m 1.12m 50.0 %
+4 11.42m 48.12 m 1.58 m 50.0 %
+5 8.28m 48.10 m 3.14m 50.0 %
+6 8.25m 43.40 m 4.70m 50.0 %
+7 8.58 m 43.40 m 0.34 m 50.0 %
+8 8.58 m 43.02 m 0.38 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+Height of ref. plane 0.75m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+15 Meeting Room 7
+15.2 Summary, Meeting Room 7
+
+15.2.1 Result overview, Evaluation area 1
+
+REMUS
+
+T T T_T T T
+0.3 0.7 1.2 1.7 2.2 2.7 3.2 x[m]
+
+300 500
+
+Illuminance [Ix]
+
+General
+
+Calculation algorithm used Average indirect fraction
+Height of luminaire plane 2.60 m
+
+Maintenance factor 0.80
+
+Total luminous flux 13110.00 Im
+
+Total power 138.0 W
+
+Total power per area (19.91 m7)
+
+Evaluation area 1 Reference plane 1.1
+
+6.93 Wim? (1.59 W/m?/100Ix)
+
+Horizontal cylindrical
+Em 437 Ix 182 Ix
+Emin 319 Ix 138 Ix
+Emin/Em (Uo) 0.73 0.76
+Emin/Emax (Ua) 0.62
+Ez/En 0.36
+Position 0.75 m 1.20 m
+Major surfaces Em Uo
+M 1.6 (Ceiling) 83 Ix 0.92
+M 1.1 (Wall) 254 Ix 0.68
+M 1.2 (Wall) 221 Ix 0.79
+M 1.3 (Wall) 261 Ix 0.55
+M 1.4 (Wall) 224 Ix 0.69
+M 1.5 (Wall) 215 Ix 0.68
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+15 Meeting Room 7
+15.2 Summary, Meeting Room 7
+
+15.2.1 Result overview, Evaluation area 1
+
+Type No.\Make
+
+Spurlite Ltd
+1 6x Order No. : Boxer Il 23w
+CD Luminaire name — : Boxer Il 23w
+\/ Equipment 21x LED 23 W/ 2185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+Installation : Lighting Models
+
+Project number
+
+Date » 25.04.2024
+
+16 Meeting Room 7 Em
+
+16.1 Description, Meeting Room 7 Em
+
+16.1.1 Floor plan
+
+REMUS
+
+y [m]
+5.0 5
+455
+40-5
+35 _ Zz!
+3.0 5
+25 - Reference plane 1.1
+2.0 5
+1.5 4
+1.0 4
+0.57
+-0.0 —
+f T T T T T T
+-0.3 0.2 0.7 1.2 1.7 2.2 3.2 x [m]
+Wall x y Length Reflectance
+4 12.55 m 43.00 m 3.96 m 50.0 %
+2 12.53 m 46.54 m 3.54 1m 50.0 %
+3 11.40 m 46.54 m 1.12m 50.0 %
+4 11.42m 48.12 m 1.58 m 50.0 %
+5 8.28m 48.10 m 3.14m 50.0 %
+6 8.25m 43.40 m 4.70m 50.0 %
+7 8.58 m 43.40 m 0.34 m 50.0 %
+8 8.58 m 43.02 m 0.38 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+16 Meeting Room 7 Em
+16.2 Summary, Meeting Room 7 Em
+
+16.2.1 Result overview, Evaluation area 1
+
+REMUS
+
+T T TT T T
+-0.3 0.7 1.2 1.7 2.2 2.7 3.2 x[nij
+
+1.5 2 K}
+Illuminance [lx]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (19.91 m7)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 4.67 Ix
+Emin 1.62 Ix
+Emin/Em (Uo) 0.35
+Emin/Emax (Ua) 0.20
+Ez/En
+Position 0.00 m
+Major surfaces Em
+M 1.6 (Ceiling) 0 |x
+M 1.1 (Wall) 1.47 Ix
+
+(
+
+(Wall) 1.05 Ix
+(Wall) 1.12 Ix
+(Wall) 1.43 Ix
+(
+
+M 1.2
+M 1.3
+M 1.4
+M 1.5 (Wall) 3.74 Ix
+
+ct
+™N
+oa
+
+Direct component
+2.60 m
+0.80
+
+185.00 Im
+23.0 W
+1.16 Wim? (24.72 Wim?/100Ix)
+
+cylindrical
+2.51 Ix
+0.44 Ix
+0.18
+
+0.25
+1.60 m
+
+Uo
+
+0.18
+0.26
+0.18
+0.33
+0.12
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+16 Meeting Room 7 Em
+16.2 Summary, Meeting Room 7 Em
+
+16.2.1 Result overview, Evaluation area 1
+
+Type No.\Make
+
+Spurlite Ltd
+6 1x Order No. : Boxer Il 23w
+iN Luminaire name — : Boxer Il 23w EM
+
+ae, Equipment :1xLED 23 W/185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+17 Break out Space and corridor R E [LUD
+
+17.1 Description, Break out Space and corridor
+17.1.1 Floor plan
+
+y [m]
+3.0
+25
+2.0
+15
+1.0
+0.5
+0.0
+
+T
+0 2 4 6 8 10 12 x[m]
+Wall x y Length Reflectance
+4 30.54 m 48.35 m 440m 50.0 %
+2 30.58 m 49.95 m 1.60 m 50.0 %
+3 39.45 m 49.99 m 8.88 m 50.0 %
+4 39.47 m 51.61m 1.62m 50.0 %
+5 26.16 m 51.48m 13.32m 50.0 %
+6 26.14m 48.35 m 3.13 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+17 Break out Space and corridor R E [LUD
+
+17.2 Summary, Break out Space and corridor
+
+17.2.1 Result overview, Evaluation area 1
+
+100 150 200
+Illuminance [lx]
+
+General
+Calculation algorithm used Average indirect fraction
+Height of luminaire plane 2.60 m
+Maintenance factor 0.80
+Total luminous flux 11400.00 Im
+Total power 88.8 W
+Total power per area (28.11 m7) 3.16 W/m? (1.88 W/m?/100Ix)
+Evaluation area 1 Reference plane 1.1
+Horizontal cylindrical
+Em 168 Ix 111 Ix
+Emin 118 Ix 67 Ix
+Emin/Em (Uo) 0.70 0.61
+Emin/Emax (Ua) 0.53
+EZ/En 0.37
+Position 0.00 m 1.60 m
+Major surfaces Em Uo
+M 1.7 (Ceiling) 49 Ix 0.83
+
+M 1.1 (Wall) 145 Ix 0.69
+M 1.2 (Wall) 116 Ix 0.70
+M 1.3 (Wall) 119 Ix 0.63
+M 1.4 (Wall) 138 Ix 0.54
+M 1.5 (Wall) 127 Ix 0.58
+M 1.6 (Wall) 138 Ix 0.78
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+17 Break out Space and corridor
+
+17.2. Summary, Break out Space and corridor
+
+17.2.1 Result overview, Evaluation area 1
+
+Type No.\Make
+
+Spurlite Ltd
+2 8x Order No. : 37 Series
+r Luminaire name — : Boxer Il 15
+Equipment :1x LED 11.1 W/ 1425 Im
+
+REMUS
+Object
+Installation
+
+Project number
+
+Date
+
+18 Break out Space and corridor Em
+
+: Twickenham Learning Centre
+: Lighting Models
+
+» 25.04.2024
+
+REMUS
+
+18.1 Description, Break out Space and corridor Em
+
+18.1.1 Floor plan
+
+y [m]
+3.0
+
+25
+2.0
+1.5
+1.0
+0.5
+
+0.0
+
+T
+0 8 10 12 x[m]
+Wall x y Length Reflectance
+4 30.54 m 48.35 m 440m 50.0 %
+2 30.58 m 49.95 m 1.60 m 50.0 %
+3 39.45 m 49.99 m 8.88 m 50.0 %
+4 39.47 m 51.61m 1.62m 50.0 %
+5 26.16 m 51.48m 13.32m 50.0 %
+6 26.14m 48.35 m 3.13 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+18 Break out Space and corridor Em R E [LUD
+
+18.2 Summary, Break out Space and corridor Em
+
+18.2.1 Result overview, Evaluation area 1
+
+3 5 < 75
+
+Iluminance [lx] ev
+
+General ©
+Calculation algorithm used x Direct component
+Height of luminaire plane 2.60 m
+Maintenance factor 0.80
+
+Total luminous flux » 620.00 Im
+
+Total power 444W
+Total power per area (28.11 m7) 1.58 Wim? (24.25 Wi/m?/100Ix)
+Evaluation area 1 Reference plane 1.1
+
+Horizontal cylindrical
+Em 6.51 Ix 3.26 Ix
+Emin 3.85 Ix ik
+Emin/Em (Uo) 0.59 0.31
+Emin/Emax (Ua) 0.41
+Ez/Eh 0.23
+Position 0.00 m 1.60 m
+Major surfaces Em Uo
+M 1.7 (Ceiling) 0 Ix _
+M 1.1 (Wall) 5.38 Ix 0.18
+M 1.2 (Wall) 2.31 Ix 0.21
+M 1.3 (Wall) 4.04 Ix 0.10
+M 1.4 (Wall) 9.22 Ix 0.32
+M 1.5 (Wall) 4.45 Ix 0.10
+
+M 1.6 (Wall) 4.97 Ix 0.23
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+18 Break out Space and corridor Em
+
+18.2 Summary, Break out Space and corridor Em
+
+18.2.1 Result overview, Evaluation area 1
+
+Type No.\Make
+
+Spurlite Ltd
+5 4x Order No. 1137 Series
+r Luminaire name — : Boxer Il 15 EM
+Equipment >1x LED 11.1 W/ 155 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+19 Delegates Kitchen R E [LUD
+
+19.1 Description, Delegates Kitchen
+19.1.1 Floor plan
+
+y [m]
+3.00 +
+2.75 5
+2.50 +
+2.25 +
+2.00 +
+1.75 4
+1.50 -| Reference plane 1.1
+1.25 4
+1.00 5
+0.75 5
+0.50 +
+0.25 5
+0.00 ~
+T T T T T T T T T T
+0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 x([m]
+Wall x y Length Reflectance
+4 17.60 m 48.35 m 4.95 m 50.0 %
+2 17.60 m 51.53 m 3.18m 50.0 %
+3 12.67 m 51.53 m 4.93 m 50.0 %
+4 12.65 m 48.35 m 3.18m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.75m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+19 Delegates Kitchen
+19.2 Summary, Delegates Kitchen
+
+19.2.1 Result overview, Evaluation area 1
+
+RELUDS
+
+200
+Illuminance [Ix]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (15.69 m7)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 348 Ix
+Emin 253 Ix
+Emin/Em (Uo) 0.73
+Emin/Emax (Ua) 0.63
+Ez/Eh
+Position 0.75 m
+Major surfaces Em
+M 1.5 (Ceiling) 71 Ix
+M 1.1 (Wall) 187 Ix
+M 1.2 (Wall) 163 Ix
+M 1.3 (Wall) 221 Ix
+M 1.4 (Wall) 173 Ix
+
+Type No.\Make
+
+Average indirect fraction
+2.60 m
+0.80
+
+8740.00 Im
+92.0 W
+5.86 Wim? (1.68 W/m?/100Ix)
+
+cylindrical
+146 Ix
+124 Ix
+0.85
+
+0.35
+1.20 m
+
+Uo
+
+0.89
+0.63
+0.74
+0.55
+0.76
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+19 Delegates Kitchen
+19.2 Summary, Delegates Kitchen
+
+19.2.1 Result overview, Evaluation area 1
+
+Spurlite Ltd
+1 4x Order No. : Boxer Il 23w
+CD Luminaire name — : Boxer Il 23w
+\/ Equipment 21x LED 23 W/ 2185 Im
+
+REMUS
+Object
+Installation
+
+Project number
+
+Date
+
+20 Delegates Kitchen Em
+
+: Twickenham Learning Centre
+
+: Lighting Models
+
+» 25.04.2024
+
+20.1 Description, Delegates Kitchen Em
+20.1.1 Floor plan
+
+y [m]
+3.00 +
+2.75 5
+2.50 +
+2.25 +
+2.00 +
+1.75 4
+1.50 — Reference plane 1.1
+1.25 4
+1.00 5
+0.75 5
+0.50 +
+0.25 5
+0.00 ~
+T T T T T T T T T
+0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0
+Wall x y Length Reflectance
+4 17.60 m 48.35 m 4.95 m 50.0 %
+2 17.60 m 51.53 m 3.18m 50.0 %
+3 12.67 m 51.53 m 4.93 m 50.0 %
+4 12.65 m 48.35 m 3.18m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+Height of ref. plane 0.00 m
+
+REMUS
+
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+20 Delegates Kitchen Em R E [LUD
+
+20.2 Summary, Delegates Kitchen Em
+
+20.2.1 Result overview, Evaluation area 1
+
+ence plane 1.1
+
+0.75 1 1.5 2 5 7.5
+
+Illuminance [Ix] ey
+General
+
+Calculation algorithm used Direct component
+
+Height of luminaire plane & 2.60 m
+
+Maintenance factor 0.80
+Total luminous flux 185.00 Im
+Total power 23.0 W
+Total power per area (15.69 m7) 1.47 Wim? (36.76 W/m?/100Ix)
+Evaluation area 1 Reference plane 1.1
+
+Horizontal cylindrical
+Em 3.99 Ix 2.06 Ix
+Emin 1 Ix 0.24 Ix
+Emin/Em (Uo) 0.25 0.12
+Emin/Emax (Ua) 0.12
+Ez/En 0.25
+Position 0.00 m 1.60 m
+Major surfaces Em Uo
+M 1.5 (Ceiling) 0 Ix --
+M 1.1 (Wall) 1.2 Ix 0.09
+M 1.2 (Wall) 0.65 Ix 0.23
+M 1.3 (Wall) 5.13 Ix 0.02
+M 1.4 (Wall) 3.56 Ix 0.17
+
+Type No.\Make
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+20 Delegates Kitchen Em
+20.2 Summary, Delegates Kitchen Em
+
+20.2.1 Result overview, Evaluation area 1
+
+Spurlite Ltd
+6 1x Order No. : Boxer Il 23w
+> Luminaire name — : Boxer Il 23w EM
+
+Ko Equipment >1x LED 23 W/ 185 Im
+
+REMUS
+Object
+Installation
+
+Project number
+
+Date
+
+21 Store room
+
+: Twickenham Learning Centre
+: Lighting Models
+
+» 25.04.2024
+
+REMUS
+
+21.1 Description, Store room
+
+21.1.1 Floor plan
+
+y [m]
+3.5
+3.0 5
+2.55
+2.0 5
+= Reference plane 1.1
+1.5 4
+1.0 4
+0.54
+-0.0
+f T T T T T T T T
+0.0 0.2 04 06 08 1.0 1.2 1.4 1.6 x[m]
+Wall x y Length Reflectance
+4 14.38 m 43.01 m 1.72m 50.0 %
+2 14.34 m 46.55 m 3.53 m 50.0 %
+3 12.66 m 46.54 m 1.68 m 50.0 %
+4 12.66 m 43.03 m 3.51m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+Height of ref. plane 0.00 m
+
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+21 Store room R E [LIK
+
+21.2. Summary, Store room
+
+21.2.1 Result overview, Evaluation area 1
+
+Reference plane 1.1
+
+TT TT TT TTT
+0.0 04 08 1.2 1.6 x[m]
+
+100 150
+Iluminance [lx]
+
+General
+Calculation algorithm used Average indirect fraction
+Height of luminaire plane 2.60 m
+Maintenance factor 0.80
+Total luminous flux 2850.00 Im
+Total power 22.2 W
+Total power per area (5.99 m?) 3.71 Wim? (2.73 Wim?/100Ix)
+Evaluation area 1 Reference plane 1.1
+
+Horizontal cylindrical
+Em 136 Ix 108 Ix
+Emin 113 Ix 70 |x
+Emin/Em (Uo) 0.83 0.64
+Emin/Emax (Ua) 0.75
+Ez/En 0.31
+Position 0.00 m 1.60 m
+Major surfaces Em Uo
+M 1.5 (Ceiling) 52 Ix 0.93
+M 1.1 (Wall) 129 Ix 0.59
+M 1.2 (Wall) 133 Ix 0.60
+M 1.3 (Wall) 127 Ix 0.59
+M 1.4 (Wall) 133 Ix 0.59
+
+Type No.\Make
+Object
+
+Installation
+Project number
+
+Date
+
+: Twickenham Learning Centre
+: Lighting Models
+
+- 25.04.2024
+
+21 Store room
+
+21.2 Summary, Store room
+
+21.2.1 Result overview, Evaluation area 1
+
+2 2x
+
+Spurlite Ltd
+
+Order No. : 37 Series
+
+Luminaire name — : Boxer II 15
+
+Equipment >1x LED 11.1 W/ 1425 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+22 Admin Office R E [LIK
+
+22.1 Description, Admin Office
+22.1.1 Floor plan
+
+3.57
+
+3.0 5
+
+2.55
+
+2.0 5
+
+Reference plane 1.1
+
+1.57
+1.0 4
+0.5 5
+-0.0 —
+T T T T T T T T T T
+-0.0 05 1.0 1.6 2.0 2.5 3.0 3.5 4.0 4.5 x[m]
+Wall x y Length Reflectance
+4 19.23 m 43.02 m 4.78m 50.0 %
+2 19.23 m 46.54 m 3.52 m 50.0 %
+3 15.68 m 46.53 m 3.55 m 50.0 %
+4 14.46 m 46.53 m 1.22m 50.0 %
+5 14.45 m 43.03 m 3.50 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.75m
+Object : Twickenham Learning Centre
+Installation : Lighting Models
+
+Project number :
+
+Date : 25.04.2024
+
+22 Admin Office
+
+22.2 Summary, Admin Office
+
+22.2.1 Result overview, Evaluation area 1
+
+T T
+0.0 05 1.0
+
+T T
+40 45 x[m]
+
+300
+Illuminance [Ix]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (16.77 m?)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 509 Ix
+Emin 422 |x
+Emin/Em (Uo) 0.83
+Emin/Emax (Ua) 0.74
+E2/En
+Position 0.75 m
+Major surfaces Em
+M 1.5 (Ceiling) 92 Ix
+M 1.1 (Wall) 267 Ix
+M 1.2 (Wall) 236 Ix
+M 1.3 (Wall) 218 Ix
+M 1.4 (Wall) 240 Ix
+
+Type No.\Make
+
+500
+
+Average indirect fraction
+2.60 m
+0.80
+
+12800.00 Im
+120.0 W
+7.16 Wim? (1.41 Wim?/100Ix)
+
+cylindrical
+191 Ix
+159 Ix
+0.83
+
+0.32
+1.20 m
+
+Uo
+
+0.94
+0.58
+0.79
+0.74
+0.79
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+22 Admin Office
+22.2 Summary, Admin Office
+
+22.2.1 Result overview, Evaluation area 1
+
+Tamlite Lighting
+4 4x Order No. : IPBL66300NW
+|| Luminaire name =: MOD66/30w/4k
+
+Equipment 1x LED 30 W/ 3200 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+23 Admin Office Em R E [LIX
+
+23.1 Description, Admin Office Em
+23.1.1 Floor plan
+
+3.57
+
+3.0 5
+
+2.55
+
+2.0 5
+
+Reference plane 1.1
+
+1.57
+1.0 4
+0.5 5
+-0.0 —
+T T T T T T T T T T
+-0.0 05 1.0 1.5 2.0 25 3.0 3.5 4.0 4.5 x[m]
+Wall x y Length Reflectance
+4 19.23 m 43.02 m 4.78m 50.0 %
+2 19.23 m 46.54 m 3.52m 50.0 %
+3 15.68 m 46.53 m 3.55 m 50.0 %
+4 14.46 m 46.53 m 1.22m 50.0 %
+5 14.45 m 43.03 m 3.50 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+23 Admin Office Em R E [LIX
+
+23.2 Summary, Admin Office Em
+
+23.2.1 Result overview, Evaluation area 1
+
+Referants plane’
+
+T T T T T
+0.0 05 10 15 20 25 30 35 4.0 4.5 x[m]
+
+ECs Se
+0.5 0.75 1 1.5 2 3 5 75
+Illuminance [lx]
+General
+Calculation algorithm used Direct component
+Height of luminaire plane 2.60 m
+Maintenance factor 0.80
+Total luminous flux 185.00 Im
+Total power 30.0 W
+Total power per area (16.77 m7) 1.79 Wim? (35.95 W/m?/100Ix)
+Evaluation area 1 Reference plane 1.1
+Horizontal cylindrical
+Em 4.98 Ix 2.1 Ix
+Emin 0.72 Ix 0.19 Ix
+Emin/Em (Uo) 0.15 0.09
+Emin/Emax (Ua) 0.07
+EZ/En 0.20
+Position 0.00 m 1.60 m
+Major surfaces Em Uo
+M 1.5 (Ceiling) 0 Ix _
+M 1.1 (Wall) 0.79 Ix 0.18
+M 1.2 (Wall) 4.27 Ix 0.16
+M 1.3 (Wall) 4.78 Ix 0.16
+M 1.4 (Wall) 0.46 Ix 0.42
+
+Type No.\Make
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+23 Admin Office Em
+23.2 Summary, Admin Office Em
+
+23.2.1 Result overview, Evaluation area 1
+
+Tamlite Lighting
+
+3 1x Order No. : IPBL66300NW EM
+
+|| Luminaire name =: MOD66/30/4K/EM
+
+Equipment :1x LED 30 W/ 185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+24 =~ Reception Office R E [LUD
+
+24.1 Description, Reception Office
+24.1.1 Floor plan
+
+y [m]
+3.5 4
+3.0 4
+2.55
+2.0 5
+Reference plane 1.1
+1.5 4
+1.0 4
+057
+-0.0 —
+f T T T T T T T T T T T
+-0.0 0.5 1.0 1.5 VA) 25 3.0 3.5 40 45 5.0 5.5 x [m]
+Wall x y Length Reflectance
+4 25.11m 43.01 m 5.76 m 50.0 %
+2 25.13 m 46.55 m 3.54 1m 50.0 %
+3 19.32 m 46.53 m 5.82 m 50.0 %
+4 19.34 m 42.99 m 3.54 1m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.75m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+24 ~=Reception Office R E [LUD
+
+24.2 Summary, Reception Office
+
+24.2.1 Result overview, Evaluation area 1
+
+T T T T T T T T T T T T
+00 05 #10 15 20 25 30 35 40 45 50 5.5 x[m]
+
+TT
+300 500
+Illuminance [Ix]
+
+General
+Calculation algorithm used Average indirect fraction
+Height of luminaire plane 2.60 m
+Maintenance factor 0.80
+Total luminous flux 12800.00 Im
+Total power 120.0 W
+Total power per area (20.48 m7?) 5.86 Wim? (1.27 Wim?/100Ix)
+Evaluation area 1 Reference plane 1.1
+
+Horizontal cylindrical
+Em 463 Ix 170 kx
+Emin 356 Ix 136 Ix
+Emin/Em (Uo) 0.77 0.80
+Emin/Emax (Ua) 0.62
+Ez/En 0.32
+Position 0.75m 1.20 m
+Major surfaces Em Uo
+M 1.5 (Ceiling) 77 Ix 0.89
+M 1.1 (Wall) 191 Ix 0.59
+M 1.2 (Wall) 171 Ix 0.72
+M 1.3 (Wall) 217 |x 0.54
+M 1.4 (Wall) 186 Ix 0.76
+
+Type No.\Make
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+24 Reception Office
+24.2 Summary, Reception Office
+
+24.2.1 Result overview, Evaluation area 1
+
+Tamlite Lighting
+4 4x Order No. : IPBL66300NW
+|| Luminaire name =: MOD66/30w/4k
+
+Equipment 1x LED 30 W/ 3200 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+25 Reception Office Em R E [LUX
+
+25.1 Description, Reception Office Em
+25.1.1 Floor plan
+
+y [m]
+3.5 4
+3.0 4
+2.55
+2.0 5
+Reference plane 1.1
+1.5 4
+1.0 4
+057
+-0.0 —
+f T T T T T T T T T T T
+-0.0 0.5 1.0 1.5 VA) 25 3.0 3.5 4.0 4.5 5.0 5.5 x [m]
+Wall x y Length Reflectance
+4 25.11 m 43.01 m 5.76 m 50.0 %
+2 25.13 m 46.55 m 3.54 1m 50.0 %
+3 19.32 m 46.53 m 5.82m 50.0 %
+4 19.34 m 42.99 m 3.54 1m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+25 Reception Office Em R E [LUD
+
+25.2 Summary, Reception Office Em
+
+25.2.1 Result overview, Evaluation area 1
+
+a
+Reference plane 1.1
+oT |
+poll
+i T T T T T T T T T T
+0.0 05 #10 15 20 25 30 35 40 42 50 5.5 x[m]
+FC i Se
+0.3 0.5 0.75 1 1.5 2 3 5 7.5 10
+Illuminance [lx]
+General
+Calculation algorithm used Direct component
+Height of luminaire plane 2.60 m
+Maintenance factor 0.80
+Total luminous flux 185.00 Im
+Total power 30.0 W
+Total power per area (20.48 m7) 1.46 Wim? (34.14 W/m?/100Ix)
+Evaluation area 1 Reference plane 1.1
+Horizontal cylindrical
+Em 4.29 Ix 1.71 Ix
+Emin 0.41 Ix 0.12 Ix
+Emin/Em (Uo) 0.09 0.07
+Emin/Emax (Ua) 0.04
+EZ/En 0.22
+Position 0.00 m 1.60 m
+Major surfaces Em Uo
+M 1.5 (Ceiling) 0 Ix _
+M 1.1 (Wall) 0.61 Ix 0.15
+M 1.2 (Wall) 2.45 Ix 0.20
+M 1.3 (Wall) 3.67 Ix 0.02
+M 1.4 (Wall) 0.31 Ix 0.45
+
+Type No.\Make
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+25 Reception Office Em
+25.2 Summary, Reception Office Em
+
+25.2.1 Result overview, Evaluation area 1
+
+Tamlite Lighting
+
+3 1x Order No. : IPBL66300NW EM
+
+|| Luminaire name : MOD66/30/4K/EM
+
+Equipment :1x LED 30 W/ 185 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+26 Male Toilet R E [LIX
+
+26.1 Description, Male Toilet
+26.1.1 Floor plan
+
+w4
+y [m]
+a1
+2
+i
+| ~
+g aoe
+s ull
+EB aia,
+a
+g
+45 i
+i
+fay
+5 \ 5 }
+I Partitions wall 4 2
+6
+i
+1
+00 04 08 1.2 1.6 x[m]
+Wall x y Length Reflectance
+4 30.74 m 43.06 m 6.77m 50.0 %
+2 32.35 m 43.04 m 1.61m 50.0 %
+3 32.33 m 49.83 m 6.79m 50.0 %
+4 30.72 m 49.83 m 1.61m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+26 = Male Toilet
+26.2 Summary, Male Toilet
+
+26.2.1 Result overview, Evaluation area 1
+
+REMUS
+
+TTTTTT TTT
+0.0 0.6 1.2
+
+x [m]
+
+100 150
+Illuminance [lx]
+
+General
+
+Calculation algorithm used
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (10.95 m7)
+
+Evaluation area 1 Reference plane 1.1
+
+Horizontal
+Em 198 Ix
+Emin 139 Ix
+Emin/Em (Uo) 0.70
+Emin/Emax (Ua) 0.56
+Ez/En
+Position 0.00 m
+Major surfaces Em
+M 1.5 (Ceiling) 64 Ix
+M 1.1 (Wall) 162 Ix
+M 1.2 (Wall) 161 Ix
+M 1.3 (Wall) 185 Ix
+M 1.4 (Wall) 149 Ix
+
+Type No.\Make
+
+200
+
+Average indirect fraction
+2.10 m
+0.80
+
+7140.00 Im
+84.0 W
+7.67 Wim? (3.88 Wim?/100Ix)
+
+cylindrical
+221 Ix
+126 Ix
+0.57
+
+0.37
+1.60 m
+
+Uo
+
+0.78
+0.38
+0.50
+0.51
+0.52
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+26 = Male Toilet
+26.2 Summary, Male Toilet
+
+26.2.1 Result overview, Evaluation area 1
+
+Spurlite Ltd
+Order No. : 1SDA21/840
+
+7 4x
+
+Luminaire name — : Dawn 21w
+(J
+NY
+
+Equipment >1x LED 21 W/1785 Im
+
+REMUS
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+27 ~=— Male Toilet(Copy of) R E [LUXS
+
+27.1 Description, Male Toilet(Copy of)
+27.1.1 Floor plan
+
+w4
+y [m]
+14
+2
+Emergency grid Male Tt
+4
+5
+~
+: Partition wall 4
+6 |
+|
+| | ~
+7
+! |
+a
+0.0 04 08 1.2 1.6 x[m]
+Wall x y Length Reflectance
+4 30.74 m 43.06 m 6.77 m 50.0 %
+2 32.35 m 43.04 m 1.61m 50.0 %
+3 32.33 m 49.83 m 6.79 m 50.0 %
+4 30.72 m 49.83 m 1.61m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane —
+Object : Twickenham Learning Centre
+Installation : Lighting Models
+
+Project number :
+
+Date : 25.04.2024
+
+27 ~=— Male Toilet(Copy of) R E LLU ox"
+
+27.2. Summary, Male Toilet(Copy of)
+
+27.2.1 Result overview, Emergency grid Male Toilet
+
+|_|
+TTTTTTTTT
+0.00612 x{m]
+
+|
+1 1.5 2 3 =
+Illuminance [lx]
+
+General
+
+Calculation algorithm used Direct component
+Height of evaluation surface 0.75 m
+Height of luminaire plane 2.60 m
+Maintenance factor 0.80
+
+Total luminous flux 176 Im
+Total power 21W
+
+Total power per area (10.95 m7) 1.92 Wim?
+Iluminance
+
+Average illuminance Em 6.7 Ix
+Minimum illuminance Emin 1.3 Ix
+Maximum illuminance Emax 13.2 Ix
+Uniformity Uo Emin/Em 1:5.03 (0.2)
+Diversity Ua Emin/Emax 1:9.96 (0.1)
+
+Type No.\Make
+
+Spurlite Ltd
+8 41x Order No. : SDA21/840 EM
+r ) Luminaire name : Dawn 21w EM
+Equipment 11x LED 21 W/176 Im
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+28 Female W/C R E [LIX
+
+28.1 Description, Female W/C
+28.1.1 Floor plan
+
+N
+y [m]
+6 4
+54
+44 By Parttion wall 4
+4 I, N
+Refergngpanane 1. 1°. Be _
+35 Partition wall 3
+Partition wall f
+275 Partition wali 4 —_—
+1 4
+\ f
+a
+0.1 05 09 13 1.7 21 2.5 x[m]
+Wall x y Length Reflectance
+4 34.89 m 43.05 m 2.32m 50.0 %
+2 34.89 m 49.85 m 6.80 m 50.0 %
+3 32.55 m 49.88 m 2.34 m 50.0 %
+4 32.57 m 43.04 m 6.85 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+28 Female W/C
+28.2 Summary, Female W/C
+
+28.2.1 Result overview, Toilet area
+
+REMUS
+
+TTTTTTTTITITTI
+0.1 0.7 1.3 1.9 2.5 x[m]
+
+75 100
+Illuminance [lx]
+
+General
+Calculation algorithm used
+
+150
+
+Average indirect fraction
+
+Height of evaluation surface 0.00 m
+Height of luminaire plane 2.60 m
+Maintenance factor 0.80
+
+Total luminous flux 7140 Im
+Total power 84W
+
+Total power per area (15.88 m7) 5.29 Wim?
+Iluminance
+
+Average illuminance Em 134 Ix
+Minimum illuminance Emin 84 Ix
+Maximum illuminance Emax 179 Ix
+Uniformity Uo Emin/Em 1:1.59 (0.63)
+Diversity Ua Emin/Emax 1:2.13 (0.47)
+
+Type No.\Make
+
+Spurlite Ltd
+
+7 4x Order No. » 1SDA21/840
+(3 Luminaire name =: Dawn 21w
+Equipment >1x LED 21 W/ 1785 Im
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+29 Female W/C Em R E [LIX
+
+29.1 Description, Female W/C Em
+29.1.1 Floor plan
+
+N
+y [m]
+6 4
+54
+44 Parttion wall 4
+4 I, N
+Refergngpanane 1. 1°. Be _
+35 Partition wall 3
+Partition wall f
+275 @ Partition wali 4 —_—
+1 4
+\ f
+a
+0.1 05 09 13 1.7 21 2.5 x[m]
+Wall x y Length Reflectance
+4 34.89 m 43.05 m 2.32m 50.0 %
+2 34.89 m 49.85 m 6.80 m 50.0 %
+3 32.55 m 49.88 m 2.34 m 50.0 %
+4 32.57 m 43.04 m 6.85 m 50.0 %
+Floor 20.0 %
+Ceiling 70.0 %
+Room height 2.60 m
+
+Height of ref. plane 0.00 m
+Object : Twickenham Learning Centre
+
+Installation : Lighting Models
+Project number :
+Date : 25.04.2024
+
+29 Female W/C Em
+29.2 Summary, Female W/C Em
+
+29.2.1 Result overview, Toilet area
+
+REMUS
+
+TTTTTTTTITITTI
+0.1 0.7 1.3 1.9 2.5 x[m]
+
+2 3
+Illuminance [lx]
+
+General
+
+Calculation algorithm used
+Height of evaluation surface
+Height of luminaire plane
+Maintenance factor
+
+Total luminous flux
+Total power
+Total power per area (15.88 m7)
+
+Iluminance
+
+Average illuminance Em
+Minimum illuminance Emin
+Maximum illuminance Emax
+Uniformity Uo Emin/Em
+Diversity Ua Emin/Emax
+
+Type No.\Make
+
+Spurlite Ltd
+8 2x Order No.
+
+@ Luminaire name
+Equipment
+
+: ISDA21/840 EM
+: Dawn 21w EM
+
+>1x LED 21W/176 Im
+
+Direct component
+0.00 m
+
+2.60 m
+
+0.80
+
+352 Im
+42W
+2.64 Wim?
+
+5.73 Ix
+2.34 Ix
+6.93 Ix
+1:2.45 (0.41)
+1:2.96 (0.34)
+

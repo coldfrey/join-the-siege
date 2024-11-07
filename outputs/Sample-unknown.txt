@@ -1,0 +1,38 @@
+Non-Disclosure Agreement (NDA)
+This Non-Disclosure Agreement ("Agreement") is entered into as of [Date] ("Effective Date") by and between:
+[Name of Disclosing Party], a [type of entity, e.g., corporation, limited liability company] organized under the laws of [State/Country], having its principal place of business at [Address] ("Disclosing Party"), and
+[Name of Receiving Party], a [type of entity, e.g., corporation, limited liability company] organized under the laws of [State/Country], having its principal place of business at [Address] ("Receiving Party").
+1. Definition of Confidential Information
+1.1. For the purposes of this Agreement, "Confidential Information" shall mean any and all technical and non-technical information disclosed by the Disclosing Party to the Receiving Party, including, but not limited to, trade secrets, know-how, inventions, designs, drawings, formulas, methods, processes, algorithms, software, business plans, financial information, marketing strategies, and any other proprietary information, whether disclosed orally or in writing.
+2. Obligations of the Receiving Party
+2.1. The Receiving Party agrees to:
+a. Maintain the confidentiality of the Confidential Information with the same degree of care as it uses to protect its own confidential information, but in no event with less than reasonable care.
+b. Use the Confidential Information solely for the purpose of [specify purpose, e.g., evaluating a potential business relationship].
+c. Not disclose the Confidential Information to any third party without the prior written consent of the Disclosing Party.
+3. Exclusions from Confidential Information
+3.1. The obligations of the Receiving Party under this Agreement shall not apply to information that:
+a. Is or becomes publicly known through no wrongful act of the Receiving Party;
+b. Is rightfully known by the Receiving Party prior to disclosure;
+c. Is independently developed by the Receiving Party without the use of or reference to the Disclosing Party’s Confidential Information; or
+d. Is disclosed pursuant to a legal requirement or order by a court, provided the Receiving Party promptly notifies the Disclosing Party of such requirement.
+4. Term and Termination
+4.1. This Agreement shall commence on the Effective Date and shall continue in effect until [specify duration, e.g., one year], unless terminated earlier by mutual written agreement.
+4.2. Upon termination or expiration of this Agreement, the Receiving Party shall promptly return or destroy all materials embodying the Confidential Information, as instructed by the Disclosing Party.
+5. No License
+5.1. Nothing in this Agreement shall be construed as granting any rights or licenses to the Receiving Party under any intellectual property rights of the Disclosing Party.
+6. Governing Law
+6.1. This Agreement shall be governed by and construed in accordance with the laws of [State/Country], without regard to its conflict of law provisions.
+7. Entire Agreement
+7.1. This Agreement constitutes the entire understanding between the parties and supersedes all prior agreements, representations, or understandings, whether written or oral, relating to the subject matter herein.
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+Disclosing Party:
+Signature: ___________________________
+Name: ______________________________
+Title: _______________________________
+Date: _______________________________
+Receiving Party:
+Signature: ___________________________
+Name: ______________________________
+Title: _______________________________
+Date: _______________________________
+

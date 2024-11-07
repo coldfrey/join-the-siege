@@ -58,10 +58,14 @@ We encourage you to be creative! Feel free to use any libraries, tools, services
     ```shell
     python -m src.app
     ```
+3.5 Start Ollama 3
+    ```shell
+    ollama serve
+    ```
 
 4. Test the classifier using a tool like curl:
     ```shell
-    curl -X POST -F 'file=@path_to_pdf.pdf' http://127.0.0.1:5000/classify_file
+    curl -X POST -F 'file=files/Sample-unknown.pdf' http://127.0.0.1:5000/classify_file
     ```
 
 5. Run tests:
@@ -80,5 +84,4 @@ Featuress:
 
 - Perform ocr to extract the text from the file, handle different file formats
 - Run Llama 3 to classify files based on their text content (optional training/finetuning)
-- Use Gemini image model to look at the file as a whole and classify based on the image, this can act as a check to make sure they agree.
 - Deploy the classifier as a service using FastAPI

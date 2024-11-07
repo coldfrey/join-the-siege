@@ -1,80 +1,38 @@
-import os
-import json
-import itertools
-import threading
-import time
-from langchain import hub
-from langchain_core.runnables import RunnablePassthrough
-from langchain_core.output_parsers import StrOutputParser
-from langchain_chroma import Chroma
-from langchain_openai import OpenAIEmbeddings
-# from langchain.embeddings import HuggingFaceEmbeddings
-from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.llms import Ollama
-from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.callbacks.manager import CallbackManager
+from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
+import os
+from src.constants import POSSIBLE_FILE_TYPES, OUTPUT_DIR
 
-# Initialize embedding function
-embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
 
-# Ensure API key is set
-os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
-# Load the vector store
-vectorstore = Chroma(persist_directory="./chroma_db", embedding_function=embedding_model)
+# Ensure the output directory exists
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Setup retrieval system
-retriever = vectorstore.as_retriever()
-
-# Define a function to format retrieved documents for input into the LLM
-def format_docs(docs):
-    context = "\n\n".join(doc.page_content + "\n" for doc in docs)
-    return context
-
+# Initialize Llama 3 (Ollama) model
 callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
-
-# Initialize the language model
 llm = Ollama(model="llama3", callback_manager=callback_manager)
 
-# Create a retrieval and response generation chain
-prompt = hub.pull("rlm/rag-prompt")
 
-rag_chain = (
-    {"context": retriever | format_docs, "question": RunnablePassthrough()}
-    | prompt
-    | llm
-    | StrOutputParser()
-)
-
-# Function to display a simple spinner
-def spinner():
-    for frame in itertools.cycle('|/-\\'):
-        if not spinner.run:
-            break
-        print(f'\rProcessing... {frame}', end='')
-        time.sleep(0.2)
-    print('\r', end='')  # Clean up the spinner line
-
-spinner.run = True
-
-# Interactive shell for RAG chat
-while True:
-    user_input = input("\n\nAsk a question: ")
-    if user_input.lower() in ["quit", "exit"]:
-        break
+def classify_with_llama(extracted_text):
+    # Create a prompt for Llama 3 to classify the document
+    prompt = (
+        f"Classify the following document based on its content. Possible types are: {', '.join(POSSIBLE_FILE_TYPES)}.\n\n"
+        f"Document Content:\n{extracted_text}\n\n"
+        "Return the classification as follows in this exact format: 'Document Type: [Type]', Reasoning: [Reasoning]."
+    )
     
-    # Start spinner in a separate thread
-    # spinner.run = True
-    # spin_thread = threading.Thread(target=spinner)
-    # spin_thread.start()
+    # Use Llama 3 to generate a classification
+    response = llm(prompt).strip()
     
-    # Invoke the chain to generate a response
-    response = rag_chain.invoke(user_input)
-    
-    # Stop spinner
-    # spinner.run = False
-    # spin_thread.join()
-    
-    # print(f"Response: {response}\n")
+    # Parse the response to separate "Document Type" and "Reasoning"
+    document_type = ""
+    reasoning = ""
 
-print("Exiting RAG Chat.")
+    # Split the response using known prefixes
+    lines = response.split(", Reasoning: ")
+    if len(lines) == 2:
+        document_type = lines[0].replace("Document Type: ", "").strip()
+        reasoning = lines[1].strip()
+
+    return document_type, reasoning

@@ -41,29 +41,29 @@ def excel_to_txt(file, txt_path):
     with open(txt_path, 'w', encoding='utf-8') as f:
         f.write(df.to_string(index=False))
 
-def process_file(file: FileStorage, txt_path):
-    ext = os.path.splitext(file.filename)[1].lower()
+def process_file(file, txt_path):
+    # Check if file is a FileStorage object or a file path string
+    if isinstance(file, FileStorage):
+        ext = os.path.splitext(file.filename)[1].lower()
+        file_path = txt_path.replace('.txt', ext)
+        file.save(file_path)  # Save the file temporarily
+    else:
+        # Assume file is a file path string
+        file_path = file
+        ext = os.path.splitext(file_path)[1].lower()
 
-    # Save the file temporarily to the local filesystem
-    temp_file_path = os.path.join('temp_uploads', file.filename)
-    os.makedirs(os.path.dirname(temp_file_path), exist_ok=True)
-    file.save(temp_file_path)
+    # Process based on file extension
+    if ext == '.pdf':
+        pdf_to_txt(file_path, txt_path)
+    elif ext in ['.jpg', '.jpeg', '.png']:
+        image_to_txt(file_path, txt_path)
+    elif ext == '.docx':
+        word_to_txt(file_path, txt_path)
+    elif ext == '.xlsx':
+        excel_to_txt(file_path, txt_path)
+    else:
+        return None
 
-    try:
-        if ext == '.pdf':
-            pdf_to_txt(temp_file_path, txt_path)
-        elif ext in ['.jpg', '.png']:
-            image_to_txt(file, txt_path)
-        elif ext == '.docx':
-            word_to_txt(file, txt_path)
-        elif ext == '.xlsx':
-            excel_to_txt(file, txt_path)
-        else:
-            return None
-    finally:
-        # Clean up the temporary file
-        os.remove(temp_file_path)
-
-    # Read the extracted text back for return if needed
+    # Read the extracted text and return it
     with open(txt_path, 'r', encoding='utf-8') as f:
         return f.read()
