@@ -80,7 +80,7 @@ Please aim to spend 3 hours on this challenge.
 Once completed, submit your solution by sharing a link to your forked repository. Please also provide a brief write-up of your ideas, approach, and any instructions needed to run your solution. 
 
 
-Featuress:
+## Things im thing of
 
 - Perform ocr to extract the text from the file, handle different file formats
 - Run Llama 3 to classify files based on their text content (optional training/finetuning)
