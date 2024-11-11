@@ -1,5 +1,11 @@
 # Heron Coding Challenge - File Classifier
 
+## My Approach
+
+The first plan was to use some form of AI on the text content of each file to classify it. I decided to use Ollama running a llama 3 model to test this locally, choosing this because for high volumes of documents it would be more cost effective than an API that charges per request.
+
+Next I thought about deployment, how could this be a public url? Hosting Ollama on a server would be expensive, so I decided to test out Modal. I have never used Modal before, but it seems like a good solution for this problem as I would be charged per time the model is in use rather than per document.
+
 ## Overview
 
 At Heron, we’re using AI to automate document processing workflows in financial services and beyond. Each day, we handle over 100,000 documents that need to be quickly identified and categorised before we can kick off the automations.
@@ -80,8 +86,3 @@ Please aim to spend 3 hours on this challenge.
 Once completed, submit your solution by sharing a link to your forked repository. Please also provide a brief write-up of your ideas, approach, and any instructions needed to run your solution. 
 
 
-## Things im thing of
-
-- Perform ocr to extract the text from the file, handle different file formats
-- Run Llama 3 to classify files based on their text content (optional training/finetuning)
-- Deploy the classifier as a service using FastAPI
