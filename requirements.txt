@@ -1,3 +1,15 @@
 Flask==3.0.3
 pytest==8.3.3
 pytest-mock==3.14.0
+Pillow
+PyPDF2
+python-docx
+pandas
+flask-limiter
+opencv-python
+pytesseract
+pdf2image
+python-docx
+werkzeug
+langchain
+langchain-ollama

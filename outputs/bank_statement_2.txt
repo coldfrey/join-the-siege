@@ -1,0 +1,44 @@
+Bank 2 of Testing
+Customer Support: 1-800-555-1234
+
+www.fakebankdomain.com
+
+Account Holder: John Doe 2
+Account Number: XXXX-XXXX-XXXX-6782
+
+Statement Period: 2023-02
+
+Date Description Debit ($) Credit ($)
+14/02/2023 Wire Transfer 154.08
+09/02/2023 ATM Withdrawal 245.51
+14/02/2023 Online Transfer 291.83
+17/02/2023 Check Deposit 286.35
+05/02/2023 Bank Fee 298.40
+15/02/2023 Direct Deposit 196.45
+27/02/2023 Debit Card Purchase 557.60
+10/02/2023 ATM Withdrawal 677.41
+17/02/2023 Check Deposit 410.46
+26/02/2023 Loan Repayment 426.25
+22/02/2023 ATM Withdrawal 666.53
+21/02/2023 Debit Card Purchase 607.05
+28/02/2023 Online Transfer 215.72
+25/02/2023 ACH Payment 650.11
+24/02/2023 Debit Card Purchase 117.01
+25/02/2023 Debit Card Purchase 544.85
+16/02/2023 Loan Repayment 679.39
+
+Bank 2 - Confidential Statement | Page 1
+
+Bank 2 of Testing
+Customer Support: 1-800-555-1234
+
+www.fakebankdomain.com
+
+10/02/2023 Bank Fee 406.69
+27/02/2023 Debit Card Purchase 134.23
+16/02/2023 Debit Card Purchase 559.85
+
+End of Statement
+
+Bank 2 - Confidential Statement | Page 2
+
