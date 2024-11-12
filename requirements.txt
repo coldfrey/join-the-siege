@@ -9,7 +9,6 @@ flask-limiter
 opencv-python
 pytesseract
 pdf2image
-python-docx
 werkzeug
 langchain
 langchain-ollama

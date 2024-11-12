@@ -26,6 +26,7 @@ def image_to_txt(file_path, txt_path):
     image = Image.open(file_path)
     processed_image = preprocess_image(image)
     text = pytesseract.image_to_string(processed_image, config='--oem 1')
+    text = pytesseract.image_to_string(image, config='--oem 1')
     with open(txt_path, 'w', encoding='utf-8') as f:
         f.write(text)
 
